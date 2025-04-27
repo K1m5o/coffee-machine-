@@ -12,6 +12,8 @@
       align-items: center;
       padding: 2rem;
     }
+
+    
     h1 {
       color: #5b3c11;
     }
